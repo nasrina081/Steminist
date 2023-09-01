@@ -1,0 +1,10 @@
+.Johnson {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  height: 400px;
+  width: 200px;
+  object-fit: cover;
+  padding: 10px 10px;
+  display: block;
+}
