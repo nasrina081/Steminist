@@ -1,0 +1,35 @@
+h5{
+  font-family: 'Courgette';
+  font-size: 65px ;
+  color:rgb(34, 233, 203);
+  margin-left:570px;
+}
+
+h9{
+  font-family: 'Courgette';
+  font-size: 65px ;
+  color:rgb(34, 233, 203);
+  margin-left:570px;
+
+}
+
+p{
+  font-size: 22px;
+ font-family: "Helvetica" ;
+ display: inline;
+ color:#00A5CF;
+ margin: 34px;
+ margin-left:10px;
+}
+
+.logo3{
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  height: 400px;
+  width: 400px;
+  object-fit: cover;
+  padding: 10px 10px;
+  display: block;
+  margin-left: 590px;
+}
